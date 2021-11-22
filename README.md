@@ -6,10 +6,6 @@
 
 Here is the online [Demo](https://hoogkamer.github.io/vue-org-chart/)
 
-For more information see the [Website](https://freeorgchart.netlify.app/)
-
-**Do you want to show your (Agile) teams instead of an orgchart? Try: [Teamviewer](https://github.com/Hoogkamer/TeamViewer) open source.**
-
 ## Build Setup
 
 This is only needed if you want to build/change your own version. If you want to use it without modification, open \doc\index.html. See also \doc\config.js. For more info see the [Website](https://freeorgchart.netlify.app/)
